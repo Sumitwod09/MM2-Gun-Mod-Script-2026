@@ -1,0 +1,5 @@
+numpy
+cffi
+Pillow
+pywin32
+colorama
